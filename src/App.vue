@@ -19,6 +19,6 @@ export default {
 </script>
 
 <style>
-
+p{color:#000;}
 </style>
 
